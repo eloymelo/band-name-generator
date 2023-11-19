@@ -4,4 +4,4 @@ in this simple piece of code I will create a name of a band combining the name o
 
 <p>Here's an example:</p>
 
-![screenshot-of-terminal](images/Screenshot 2023-11-15 at 11.20.50.png)
+![screenshot-of-terminal](https://github.com/eloyrmelo/band-name-generator/blob/main/images/Screenshot%202023-11-15%20at%2011.20.50.png)
